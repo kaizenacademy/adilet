@@ -1,6 +1,8 @@
 
 #!/bin/bash
 
+# Change following variables
+
 ami_id="ami-0715c1897453cabd1"
 key_name="my-laptop-key"
 name="hello"
